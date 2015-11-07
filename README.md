@@ -17,7 +17,7 @@
 ### referjs 不是
 * 考虑性能的前端框架
 
-  考虑性能的同学请移步[react](https://github.com/facebook/react)。
+  考虑性能的同学请移步 [react](https://github.com/facebook/react)。
   
 * 容易让**普通用户**上手的前端框架
 
